@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Shahab Abbaszadeh
 
-<!--
-**Architecto79/Architecto79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Architect, urban researcher, and AI enthusiast exploring the intersection of architecture, urban analytics, and artificial intelligence.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Areas of Interest
+
+- AI in Architecture
+- Urban Analytics
+- Computational Design
+- Revit & BIM Automation
+- GIS & Spatial Analysis
+- AI-Assisted Architectural Visualization
+- Smart Cities & Urban Resilience
+
+---
+
+## Current Focus
+
+- AI-driven architectural workflows
+- Urban resilience and analytics
+- Computational design systems
+- Architectural rendering optimization
+- Revit / GIS integration
+- AI-assisted design research
+
+---
+
+## Tools & Platforms
+
+- Revit
+- Rhino / Grasshopper
+- QGIS / ArcGIS
+- Python
+- AI Visual Tools
+- Claude 
+
+---
+
+## Based in
+
+Sydney, Australia
+
+---
+
+## Research Interests
+
+Exploring how artificial intelligence and computational systems can enhance architectural workflows, urban decision-making, visualization, and resilience-oriented design strategies.
+
 -->
